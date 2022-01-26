@@ -1,0 +1,224 @@
+{
+	"data": {
+		"tournaments": {
+			"nodes": [
+				{
+					"id": 298620,
+					"name": "Rise 'N Grind",
+					"slug": "tournament\/rise-n-grind",
+					"isOnline": false,
+					"numAttendees": null,
+					"images": [
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/298620\/image-bb1c90969ccb5aa8c5cf7633921ff710.png",
+							"type": "banner"
+						},
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/298620\/image-82b5d83065426b42dbc40c8af740a323.png",
+							"type": "profile"
+						}
+					]
+				},
+				{
+					"id": 346517,
+					"name": "The Bell Tolls II: The Distance",
+					"slug": "tournament\/the-bell-tolls-ii-the-distance",
+					"isOnline": false,
+					"numAttendees": 19,
+					"images": [
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/346517\/image-96d2aa3d57ed146063af5eb6e34d075d.png",
+							"type": "profile"
+						},
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/346517\/image-48e9d1b4492b441a01fa053cc364b967.png",
+							"type": "banner"
+						}
+					]
+				},
+				{
+					"id": 302417,
+					"name": "Collision 2022",
+					"slug": "tournament\/collision-2022",
+					"isOnline": false,
+					"numAttendees": 488,
+					"images": [
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/302417\/image-715852d81f6073a774467cac040e2749.png",
+							"type": "profile"
+						},
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/302417\/image-dddc4b8a1a6e8bcb4e6f9e9d124d2bc4.png",
+							"type": "banner"
+						}
+					]
+				},
+				{
+					"id": 234099,
+					"name": "TALK SMACK GET BODIED WEEKLIES - £10 prize pool (UNSEEDED)",
+					"slug": "tournament\/talk-smack-get-bodied-weeklies-10-prize-pool-unseeded",
+					"isOnline": true,
+					"numAttendees": 3228,
+					"images": [
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/234099\/image-c5eacfd4a27cd743627af1ddc4b8a356.png",
+							"type": "profile"
+						},
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/234099\/image-0eb8f6f163b25365e6eee4395a9ab65f.png",
+							"type": "banner"
+						}
+					]
+				},
+				{
+					"id": 334881,
+					"name": "Moose Wars, The Frost Trials",
+					"slug": "tournament\/moose-wars-the-frost-trials-1",
+					"isOnline": true,
+					"numAttendees": 616,
+					"images": [
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/334881\/image-d697441ce0427d10ad3738588a0ecb7c.png",
+							"type": "profile"
+						},
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/334881\/image-9793e6708682411ac60c7156f72a5db1.png",
+							"type": "banner"
+						}
+					]
+				},
+				{
+					"id": 345481,
+					"name": "Get Clipped #17 A Holiday Special by FreshCut",
+					"slug": "tournament\/get-clipped-17-a-holiday-special-by-freshcut",
+					"isOnline": true,
+					"numAttendees": 330,
+					"images": [
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/345481\/image-71b28204623e787f5e29df476b87f47a.png",
+							"type": "profile"
+						},
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/345481\/image-5ab86a4d89a179811107a82533d401ea.png",
+							"type": "banner"
+						}
+					]
+				},
+				{
+					"id": 324242,
+					"name": "The Smash World Tour Championships",
+					"slug": "tournament\/the-smash-world-tour-championships",
+					"isOnline": false,
+					"numAttendees": 969,
+					"images": [
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/324242\/image-f7a7b8f1b9833e64173b0e2e4acacf29.png",
+							"type": "banner"
+						},
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/324242\/image-4a383d5aa21a52bd4b49238310a623f5.png",
+							"type": "profile"
+						}
+					]
+				},
+				{
+					"id": 337075,
+					"name": "The Box Championship Circuit: Qualifier #2",
+					"slug": "tournament\/the-box-championship-circuit-qualifier-2",
+					"isOnline": true,
+					"numAttendees": 101,
+					"images": [
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/337075\/image-8f3af0ec53e10b83e7938cd37d4f24f2.png",
+							"type": "profile"
+						},
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/337075\/image-09859f24462815a9b06e9d20a29a9725.png",
+							"type": "banner"
+						}
+					]
+				},
+				{
+					"id": 334785,
+					"name": "Get Clipped #16 presented by FreshCut",
+					"slug": "tournament\/get-clipped-16-presented-by-freshcut",
+					"isOnline": true,
+					"numAttendees": 247,
+					"images": [
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/334785\/image-796b801ca0756931ab81f0fcb715a4c7.png",
+							"type": "profile"
+						},
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/334785\/image-1416505ad850995bc00f34a065097be0.png",
+							"type": "banner"
+						}
+					]
+				},
+				{
+					"id": 332441,
+					"name": "The Box: Juice Box #58",
+					"slug": "tournament\/the-box-juice-box-58",
+					"isOnline": true,
+					"numAttendees": 343,
+					"images": [
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/332441\/image-643a43807d502951683639f9822ae448.png",
+							"type": "profile"
+						},
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/332441\/image-87b5a57e7b4f1ae213e068a67470987d.png",
+							"type": "banner"
+						}
+					]
+				},
+				{
+					"id": 272528,
+					"name": "SWT: Oceania Melee & Ultimate Regional Finals",
+					"slug": "tournament\/swt-oceania-melee-ultimate-regional-finals",
+					"isOnline": false,
+					"numAttendees": null,
+					"images": [
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/272528\/image-8422306f363e1898db70a5e4b3b36f9d.png",
+							"type": "profile"
+						}
+					]
+				},
+				{
+					"id": 323746,
+					"name": "GENESIS (by Elite Gaming Channel)",
+					"slug": "tournament\/genesis-by-elite-gaming-channel-2",
+					"isOnline": true,
+					"numAttendees": 512,
+					"images": [
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/323746\/image-65818758d0a2a710c37c568ff049af2d.png",
+							"type": "profile"
+						},
+						{
+							"url": "https:\/\/images.smash.gg\/images\/tournament\/323746\/image-39aef35a2e477de908092d5c2953257d.png",
+							"type": "banner"
+						}
+					]
+				}
+			]
+		}
+	},
+	"extensions": {
+		"cacheControl": {
+			"version": 1,
+			"hints": [
+				{
+					"path": [
+						"tournaments"
+					],
+					"maxAge": 600,
+					"scope": "PRIVATE"
+				}
+			]
+		},
+		"queryComplexity": 22
+	},
+	"actionRecords": []
+}
